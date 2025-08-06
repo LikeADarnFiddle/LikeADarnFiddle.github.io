@@ -1,5 +1,13 @@
 html {
-	font-family: "Courier New", "Lucida Console", monospace;
+	font-family: bfStyleFont, "Lucida Console", monospace;
+}
+
+
+.red-hat-mono-bfStyleFont {
+  font-family: "Red Hat Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
 }
 
 /* Testing CSS stuff */
