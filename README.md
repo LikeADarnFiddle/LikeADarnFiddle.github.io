@@ -1,6 +1,6 @@
 Hi there!  I'm Fiddl3.  Recent IT & Cybersec grad working on a portfolio site to get back into the swing of things post-grad, on topics and projects I actually want to do & care about rather than things I'm required to do. <br/>
 
-Possible inclusions:
+Possible inclusions: <br/>
 -Art section
   -Beginner - seriously probably won't do this until I feel comfortable actually posting my work in places.  Probably pony-related.
 -Previous projects
