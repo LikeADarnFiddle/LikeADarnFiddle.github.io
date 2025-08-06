@@ -1,5 +1,8 @@
 html {
-	font-family: red-hat-mono-bfStyleFont, "Courier New", monospace;
+  font-family: "Red Hat Mono", "Courier New", monospace;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
 }
 
 
