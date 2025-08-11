@@ -17,7 +17,7 @@ TODO:
 -Fancify some parts with CSS
   -Fonts
   -Keep the image still as you scroll, always loved that
-  -Subtle off-white coloring
+  -Subtle off-white coloring [Pseudo-done because I'm impatient]
 -Implement JS & JS Frameworks
   -Buttons! Drop-down nav bars! React! The things employers want, I guess.
 -Rework old projects to look nice
