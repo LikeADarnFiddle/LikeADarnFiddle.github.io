@@ -9,7 +9,7 @@ html {
 .header-container img {
   display: block;
   margin: auto;
-  width: 100%; /* Or a specific width */
+  width: auto;
 }
 
 /* Testing CSS stuff */
