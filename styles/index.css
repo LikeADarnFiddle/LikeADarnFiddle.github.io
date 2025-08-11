@@ -1,5 +1,9 @@
-.html {
-	font-family: "Courier New", "Lucida Console", monospace;
+html {
+  background-color: #F4F0DB;
+  font-family: "Red Hat Mono", "Courier New", monospace;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
 }
 
 /* Testing CSS stuff */
