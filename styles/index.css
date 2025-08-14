@@ -59,6 +59,12 @@ html {
   text-align: center;
 }
 
+.main-container li {
+  list-style-type: none;
+  padding: 10px;
+  text-align: center;
+}
+
 /* Footer customizations */
 .footer-container {
   text-align: center;
