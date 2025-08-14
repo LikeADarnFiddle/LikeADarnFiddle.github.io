@@ -1,3 +1,4 @@
+/* Overarching design CSS - Main color & font */
 html {
   background-color: #F4F0DB;
   font-family: "Red Hat Mono", "Courier New", monospace;
@@ -6,8 +7,7 @@ html {
   font-style: normal;
 }
 
-/* Overarching design CSS - Main color & font */
-
+/* Header logo image container & image */
 .header-container img {
   display: block;
   margin: auto;
@@ -19,8 +19,7 @@ html {
   max-height: 100%;
 }
 
-/* Header logo image container & image */
-
+/* Navbar customizations */
 .navbar {
   list-style-type: none;
   margin: 0;
@@ -48,8 +47,28 @@ html {
   background-color: #929292;
 }
 
-/* Note: Figure out how to make this look better later */
+/* Main content container */
 
-/* Navbar */
+.main-container {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  padding: 10px;
+}
+
+/* Footer customizations */
+.footer-container {
+  text-align: center;
+  padding: 20px;
+  background-color: #4a4a4a;
+  width: 100%;
+}
+
+.footer-container p {
+  color: #F4F0DB;
+  margin: 0;
+}
+
+/* Note: Figure out how to make this look better later */
 
 /* A Useless Comment! */
