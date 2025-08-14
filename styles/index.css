@@ -21,7 +21,7 @@ html {
 
 /* Header logo image container & image */
 
-ul {
+.navbar {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -30,11 +30,7 @@ ul {
   width: 100%;
 }
 
-li {
-  float: left;
-}
-
-li a {
+.navbar a {
   float: left;
   color: #F4F0DB;
   text-align: center;
@@ -44,8 +40,12 @@ li a {
   box-sizing: border-box; /* Ensures padding doesn't affect width */
 }
 
-li a:hover {
+.navbar a:hover {
   background-color: #b7b7b7;
+}
+
+.navbar a.active {
+  background-color: #929292;
 }
 
 /* Note: Figure out how to make this look better later */
