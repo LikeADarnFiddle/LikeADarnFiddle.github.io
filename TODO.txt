@@ -1,20 +1,15 @@
-<pre>
 Current working page:
 home.html
 
 Task list:
--Logo [DONE]
--Navbar [Done?]
--Blurred image behind logo?
 -Figure out content
 
 In-Progress:
--Navbar [Background for the time]
--Blurred image [Generic tech stuff I guess, might just change the logo image to be a banner]
+Content
 
 Done:
 -Logo
--Navbar [Maybe?]
+-Navbar
 
 Deadline Goal:
 0700 EST 08/16/2025
@@ -42,4 +37,3 @@ TODO:
   -Seriously man, you gotta work on that.  Your baseline was made almost a decade ago, get with the times.
 -Get hired?
   -Unlikely.  Good luck.
-</pre>
