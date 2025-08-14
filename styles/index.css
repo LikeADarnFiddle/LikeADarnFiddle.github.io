@@ -37,8 +37,10 @@ li a {
   display: block;
   color: #F4F0DB;
   text-align: center;
-  padding: 14px 25%;
+  padding: 14px 16px;
   text-decoration: none;
+  width: 25%;
+  box-sizing: border-box; /* Ensures padding doesn't affect width */
 }
 
 li a:hover {
