@@ -30,7 +30,7 @@ ul {
 }
 
 li {
-  display: inline;
+  float: left;
 }
 
 li a {
