@@ -6,6 +6,8 @@ html {
   font-style: normal;
 }
 
+/* Overarching design CSS - Main color & font */
+
 .header-container img {
   display: block;
   margin: auto;
@@ -17,4 +19,33 @@ html {
   max-height: 100%;
 }
 
-/* Testing CSS stuff */
+/* Header logo image container & image */
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #4a4a4a;
+  overflow: hidden;
+}
+
+li {
+  display: inline;
+}
+
+li a {
+  display: block;
+  color: #F4F0DB;
+  text-align: center;
+  padding: 14px 16px;
+}
+
+li a:hover {
+  background-color: #b7b7b7;
+}
+
+/* Note: Figure out how to make this look better later */
+
+/* Navbar */
+
+/* A Useless Comment! */
