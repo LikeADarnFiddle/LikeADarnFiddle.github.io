@@ -1,0 +1,17 @@
+Current working page:
+home.html
+
+Task list:
+-Logo [DONE]
+-Navbar
+-Blurred image behind logo?
+-Figure out content
+
+In-Progress:
+-Navbar
+
+Done:
+-Logo
+
+Deadline Goal:
+0700 EST 08/16/2025
