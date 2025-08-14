@@ -27,6 +27,7 @@ ul {
   padding: 0;
   background-color: #4a4a4a;
   overflow: hidden;
+  width: 100%;
 }
 
 li {
@@ -34,10 +35,10 @@ li {
 }
 
 li a {
-  display: block;
+  float: left;
   color: #F4F0DB;
   text-align: center;
-  padding: 14px 16px;
+  padding: 12px;
   text-decoration: none;
   width: 25%;
   box-sizing: border-box; /* Ensures padding doesn't affect width */
