@@ -65,6 +65,11 @@ html {
   text-align: center;
 }
 
+/* Fixes the ul default padding to actually center it */
+.main-container ul {
+  padding: 0px;
+}
+
 /* Footer customizations */
 .footer-container {
   text-align: center;
